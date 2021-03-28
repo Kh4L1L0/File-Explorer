@@ -1,0 +1,61 @@
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion de fichier Form.csprojAssemblyReference.cache
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion_de_fichier_Form.FileGestion.resources
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion_de_fichier_Form.Aithentication.resources
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion_de_fichier_Form.Properties.Resources.resources
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion de fichier Form.csproj.GenerateResource.cache
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion de fichier Form.csproj.CoreCompileInputs.cache
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Gestion de fichier Form.exe.config
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Gestion de fichier Form.exe
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Gestion de fichier Form.pdb
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion de fichier Form.exe
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion de fichier Form.pdb
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Shared.v19.2.xml
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.Misc.v19.2.xml
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinEditors.v19.2.xml
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v19.2.xml
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinTabControl.v19.2.xml
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinToolbars.v19.2.xml
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.v19.2.xml
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion de fichier Form.exe.licenses
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion de fichier Form.csproj.CopyComplete
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\System.Windows.Forms.Ribbon.pdb
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.dll
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinDataSource.v19.2.dll
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.SupportDialogs.v19.2.xml
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.FormulaBuilder.xml
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.xml
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinListView.v19.2.xml
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinTree.v19.2.xml
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.xml
+C:\Users\Adm\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinDataSource.v19.2.xml
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Gestion de fichier Form.exe.config
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Gestion de fichier Form.exe
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Gestion de fichier Form.pdb
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.dll
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinDataSource.v19.2.dll
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Shared.v19.2.xml
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.Misc.v19.2.xml
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.SupportDialogs.v19.2.xml
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.FormulaBuilder.xml
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinEditors.v19.2.xml
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.xml
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinListView.v19.2.xml
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinStatusBar.v19.2.xml
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinTabControl.v19.2.xml
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinToolbars.v19.2.xml
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinTree.v19.2.xml
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.v19.2.xml
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\System.Windows.Forms.Ribbon.pdb
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinCalcManager.v19.2.xml
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\bin\Debug\Infragistics4.Win.UltraWinDataSource.v19.2.xml
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion de fichier Form.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion_de_fichier_Form.FileGestion.resources
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion_de_fichier_Form.Aithentication.resources
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion_de_fichier_Form.Properties.Resources.resources
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion de fichier Form.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion de fichier Form.exe.licenses
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion de fichier Form.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion de fichier Form.csproj.CopyComplete
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion de fichier Form.exe
+C:\Users\hp\source\repos\Gestion de fichier Form\Gestion de fichier Form\obj\Debug\Gestion de fichier Form.pdb
